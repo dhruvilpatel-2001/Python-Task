@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains multiple lines of text.
+Python file handling is simple and powerful.
+This is the last line of the file.
