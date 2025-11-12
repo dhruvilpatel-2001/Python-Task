@@ -11,12 +11,12 @@ print("Data written successfully!")
 # add a additional data
 append_input = input("Enter more text to append: ")
 
-with open("output.txt", "a") as file:
+with open("Assignment-4/output.txt", "a") as file:
     file.write(append_input + "\n")
 
 print("Data appended successfully!")
 
 #Read and display data
 print("\nFinal file content:")
-with open("output.txt", "r") as file:
+with open("Assignment-4/output.txt", "r") as file:
     print(file.read())
